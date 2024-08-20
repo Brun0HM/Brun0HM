@@ -8,6 +8,7 @@ Olá, me chamo Bruno e tenho 17 anos!
 )](https://steamcommunity.com/id/Brun069)
 ==============================================================
 ![Brun0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true)
 
 
