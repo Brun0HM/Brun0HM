@@ -6,6 +6,7 @@ Olá, meu nome é Bruno
 )](https://steamcommunity.com/id/Brun069)
 
 !Joaquim GitHub stats
+
 !Top Langs
 
 Tecnologias do dia a dia
