@@ -1,12 +1,12 @@
 Olá, me chamo Joaquim Guilherme de S. Ramos
 #### Atualmente estou no SENAI, cursando Desenvolvimento de Sistemas
 
-[![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaquimgsr/)
+[![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fk.brun0/)
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-)](https://steamcommunity.com/id/jocaquim)
+)](https://steamcommunity.com/id/Brun069)
 
-![Joaquim GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaquimtxt&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquimtxt&layout=compact&theme=dracula&hide_border=true)
+![Brun0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brun0Hm&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=dracula&hide_border=true)
 
 ### Tecnologias do dia a dia
 <div style="display: inline_block"><br>
