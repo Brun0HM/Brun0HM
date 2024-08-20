@@ -1,8 +1,7 @@
 Olá, me chamo Bruno e tenho 17 anos!
 #### Atualmente estou no SENAI, cursando Desenvolvimento de Sistemas
 
-##Redes sociais 
-<br/
+## Redes sociais/Entre em contato
 [![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fk.brun0/)
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/Brun069)
