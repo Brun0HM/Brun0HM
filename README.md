@@ -5,7 +5,7 @@ Olá, meu nome é Bruno
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/Brun069)
 
-!Joaquim GitHub stats
+!Brun0 GitHub stats
 
 !Top Langs
 
