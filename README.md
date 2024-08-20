@@ -5,10 +5,10 @@ Olá, me chamo Joaquim Guilherme de S. Ramos
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/Brun069)
 
-![Brun0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brun0Hm&show_icons=true&theme=dracula&hide_border=true)
+![Brun0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=dracula&hide_border=true)
 
-### Tecnologias do dia a dia
+### Linguagens que estudo!
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
