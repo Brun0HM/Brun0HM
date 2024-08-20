@@ -5,7 +5,7 @@ Olá, me chamo Bruno e tenho 17 anos!
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/Brun069)
 
-![Brun0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=dracula&hide_border=true)
+![Brun0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyoNighta&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=dracula&hide_border=true)
 
 ## Tecnologias que eu uso no meu dia
