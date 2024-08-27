@@ -1,4 +1,4 @@
-Olá, me chamo Bruno e tenho 17 anos! Atualmente estudo no SENAI cursando desenvolvimeto de sistemas.
+## Olá, me chamo Bruno e tenho 17 anos! Atualmente estudo no SENAI cursando desenvolvimeto de sistemas.
 ## Redes sociais/Entre em contato
 ![@Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fk.brun0/)
