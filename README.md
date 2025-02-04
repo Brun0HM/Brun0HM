@@ -3,10 +3,14 @@
 
 
 
+
+<table>
+<tr>
+<td>
+ <img
 <div style="text-align: center;"> <br>
  <b>Languages/Tools used:</b>
 </div>
-
 <div style="display: inline_block"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
@@ -19,13 +23,32 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)">
-  
+
+  </td>
+</tr>
+
+</table>
+
+
+<table>
+  <tr>
+    <td>
+      <img 
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="Github Stats"
+      />
+      <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
-![Brun0 GitHub stats
-](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ![snake](https://github.com/Brun0HM/Brun0HM/blob/output/github-contribution-grid-snake-dark.svg)
