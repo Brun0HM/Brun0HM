@@ -1,9 +1,9 @@
 ## Hello Word, i'm Bruno, Brazilian Full Stack Developer.
-*🌱I'm  currently studying at SENAI and looking for my first job.
+* 🌱I'm  currently studying at SENAI and looking for my first job.
 </hr>
-*🪙2025 Goals: Learning More About API Creation and Usage.
+* 🪙2025 Goals: Learning More About API Creation and Usage.
 </hr>
-*✨ Fun Fact: I love games, volleyball, and gym.
+* ✨ Fun Fact: I love games, volleyball, and gym.
 
 
 <table>
