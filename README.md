@@ -8,13 +8,13 @@
 * ✨ Fun Fact: I love games, volleyball, and gym.
 
 
+ ##  💻Languages/Tools used:
 <table>
 <tr>
 <td>
  <img
-<div style="text-align: center;"> <br>
- <b>Languages/Tools used:</b>
-</div>
+
+
 <div style="display: inline_block"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
@@ -40,10 +40,13 @@
 </table>
 
 
+   ##  📊GitHub Stats
+
+
 <table>
   <tr>
     <td>
-      <img 
+      <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true"
         alt="Github Stats"
