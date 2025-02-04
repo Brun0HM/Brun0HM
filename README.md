@@ -39,6 +39,20 @@
 
 </table>
 
+## 🌐 Socials
+
+   <table>
+  <tr>
+    <td align="left">
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  
+  </td>
+  </tr>
+</table>
+
 
    ##  📊GitHub Stats
 
