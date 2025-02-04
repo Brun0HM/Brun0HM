@@ -17,9 +17,10 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   
 </div><br/
+
 ![Brun0 GitHub stats
 ](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true)/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ![snake](https://github.com/Brun0HM/Brun0HM/blob/output/github-contribution-grid-snake-dark.svg)
