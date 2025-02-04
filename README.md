@@ -1,8 +1,12 @@
-## Olá, me chamo Bruno e tenho 17 anos! Atualmente estudo no SENAI cursando desenvolvimeto de sistemas.
+## Hello Word, i'm Bruno, Brazilian Full Stack Developer.
 ## Redes sociais/Entre em contato
 [![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fk.brun0/)
+[![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+)](https://steamcommunity.com/id/Brun069)
 ==============================================================
-
+![Brun0 GitHub stats
+](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
@@ -15,8 +19,9 @@
   <img align="center" alt
 ="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  
+
 </div><br/
+
 
 ![Brun0 GitHub stats
 ](https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true)
