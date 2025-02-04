@@ -1,7 +1,9 @@
 ## Hello Word, i'm Bruno, Brazilian Full Stack Developer.
-*
-
-
+*🌱I'm  currently studying at SENAI and looking for my first job.
+</hr>
+*🪙2025 Goals: Learning More About API Creation and Usage
+</hr>
+*✨ Fun Fact: I love games, volleyball, and gym.
 
 
 <table>
@@ -26,6 +28,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+ <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 
