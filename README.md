@@ -61,13 +61,13 @@
   <tr>
     <td>
       <img
-       height="180em" 
+       height="170em" 
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true"
         alt="Github Stats"
       />
       <img
-       height="180em" 
+       height="170em" 
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true"
         alt="Github Stats"
