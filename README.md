@@ -56,28 +56,10 @@
 
    ##  📊GitHub Stats
 
-
-<table>
-  <tr>
-    <td>
-      <img
-       height="170em" 
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="Github Stats"
-      />
-      <img
-       height="170em" 
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&title_color=4493f8&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&title_color=4493f8&text_color=FFFFFF&langs_count=16"/> 
+</div>
 
 
 ![snake](https://github.com/Brun0HM/Brun0HM/blob/output/github-contribution-grid-snake-dark.svg)
