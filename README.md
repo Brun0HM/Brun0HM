@@ -2,7 +2,7 @@
 * 🌱I'm  currently studying at SENAI and looking for my first job.
 
 
-* 🪙2025 Goals: Learning More.
+* 🪙2025 Goals: Be the best student in my SENAI class.
 
 
 * ✨ Fun Fact: I love games, volleyball, and gym.
