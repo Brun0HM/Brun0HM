@@ -2,7 +2,7 @@
 * 🌱I'm  currently studying at SENAI and looking for my first job.
 
 
-* 🪙2025 Goals: Learning More About API Creation and Usage.
+* 🪙2025 Goals: Learning More.
 
 
 * ✨ Fun Fact: I love games, volleyball, and gym.
@@ -57,7 +57,8 @@
    ##  📊GitHub Stats
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&title_color=4493f8&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brun0HM&show_icons=true&theme=tokyonight&title_color=4493f8&text_color=FFFFFF"
+/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0HM&layout=compact&theme=tokyonight&title_color=4493f8&text_color=FFFFFF&langs_count=16"/> 
 </div>
 
