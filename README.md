@@ -1,4 +1,4 @@
-## Hello Word, i'm Bruno, Brazilian Full Stack Developer.
+## Hello World, i'm Bruno, Brazilian Full Stack Developer.
 * 🌱I'm  currently studying at SENAI and looking for my first job.
 
 
