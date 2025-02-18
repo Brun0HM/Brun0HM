@@ -15,7 +15,8 @@
  <img
 
 
-<div style="display: inline_block"> <br>
+<div style="display: inline_block
+"> <br>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
@@ -46,7 +47,7 @@
     <td align="left">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"(mailto:contato.bruno2007@gmail.com)>
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/bruno-alves-a757732b5/)>
+   <a href="https://www.linkedin.com/in/bruno-alves-a757732b5" target="-Blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   
   </td>
