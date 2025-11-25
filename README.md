@@ -1,6 +1,6 @@
 # Hello, World! I'm Bruno Martins! 👋
 
-### 🇧🇷 Junior Full Stack Developer | SENAI Student | Actively Seeking First Opportunity
+### 🇧🇷 Full Stack Developer | Tech and Innovation Enthusiast
 
 ---
 
