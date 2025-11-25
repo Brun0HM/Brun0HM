@@ -57,9 +57,9 @@ Below are the **Programming Languages** and **Frameworks** I use, and the **Tool
 
 | Project | Primary Technology | Status | Repository |
 | :--- | :--- | :--- | :--- |
-| **[EnerCheck]** | C#, .NET, React | In Development | [Project Link](https://github.com/Brun0HM/EnerCheckPrincipal) |
-| **[DevFlix]** | React, BootStrap, JavaScript, API Consumption | Completed | [Project Link](https://github.com/Brun0HM/projetoDevFlix) |
-| **[Curumim kids]** | React, BootStrap, JavaScript | Completed | [Project Link](https://github.com/Brun0HM/curumimKids) |
+| **EnerCheck** | C#, .NET, React | In Development | [Project Link](https://github.com/Brun0HM/EnerCheckPrincipal) |
+| **DevFlix** | React, BootStrap, JavaScript, API Consumption | Completed | [Project Link](https://github.com/Brun0HM/projetoDevFlix) |
+| **Curumim kids** | React, BootStrap, JavaScript | Completed | [Project Link](https://github.com/Brun0HM/curumimKids) |
 
 ---
 
