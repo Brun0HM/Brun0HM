@@ -6,9 +6,9 @@
 
 ## 📌 About Me
 
-* 🌱 I am currently a student at **SENAI** and actively searching for my first opportunity as a Full Stack Developer.
+* 🌱 I am currently a student at **FATEC** and actively searching for my first opportunity as a Full Stack Developer.
 * 💻 My passion is transforming ideas into functional solutions, using a comprehensive approach (Front-end and Back-end).
-* 🌟 **2025 Goal:** To be the top-performing student in my SENAI class and successfully launch my career in software development.
+* 🌟 **2025 Goal:** 
 * ✨ **Fun Fact:** Besides coding, I'm a big enthusiast of games, volleyball, and fitness.
 
 ---
@@ -51,17 +51,6 @@ Below are the **Programming Languages** and **Frameworks** I use, and the **Tool
 
 ---
 
-## 📁 Featured Projects
-
-**Showcasing your practical projects is the most important item for anyone seeking their first job. List your best work here!**
-
-| Project | Primary Technology | Status | Repository |
-| :--- | :--- | :--- | :--- |
-| **EnerCheck** | C#, .NET, React | In Development | [Project Link](https://github.com/Brun0HM/EnerCheckPrincipal) |
-| **DevFlix** | React, BootStrap, JavaScript, API Consumption | Completed | [Project Link](https://github.com/Brun0HM/projetoDevFlix) |
-| **Curumim kids** | React, BootStrap, JavaScript | Completed | [Project Link](https://github.com/Brun0HM/curumimKids) |
-
----
 
 ## 📊 GitHub Status
 
